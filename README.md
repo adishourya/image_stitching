@@ -1,3 +1,4 @@
+checkout the project report at : ./CompVis1.pdf
 Exemplar Usage :
 
 * For sample images make sure to load in the images directory and utils folder
