@@ -1,6 +1,7 @@
 Exemplar Usage :
 
 For sample images make sure to load in the images directory and utils folder
+All Images in the repository are publically licensed
 
 **Step1 pass in 2  input images :** 
 
