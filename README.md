@@ -16,12 +16,11 @@ optionally use plt.imshow(w) to plot the result image
 
 **Output**
 
-plots the matched pairs and the result image :wq
+plots the matched pairs and the result image 
 <img width="961" alt="image" src="https://github.com/adishourya/image_stitching/assets/46932291/f854f5b2-4a7e-4d4e-8d70-3237396f3efe">
 
 
-## Experimental > 2 images
-* Does not handle calculating >2 images :wq
+## Stitching > 2 images
 
 <img width="1070" alt="image" src="https://github.com/adishourya/image_stitching/assets/46932291/9a1c00c6-2e6a-4cc0-9641-1c36cf158ef8">
 
